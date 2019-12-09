@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1566014101 source:d:\数据\文件\web\cppprojects\opencvpro\main.cpp
+	"cvFunc.h"
+
+1566014056 source:d:\数据\文件\web\cppprojects\opencvpro\cvfunc.cpp
+	<opencv2\opencv.hpp>
+	<opencv2\highgui\highgui.hpp>
+	<opencv2\imgproc\imgproc.hpp>
+	"cvFunc.h"
+	<iostream>
+	<cmath>
+	<vector>
+	<string.h>
+
+1566013712 d:\数据\文件\web\cppprojects\opencvpro\cvfunc.h
+	<opencv2\opencv.hpp>
+
